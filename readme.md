@@ -2,9 +2,9 @@
 Introduction to Github
 Other Texts goes here
 
-# ጊት በአማርኛ 
+# ጊት በአማርኛ and English
 
-እንደምን አላችሁ ቤተሰብ ዛሬ ጊትን በአማርኛ እንማራለን። 
+እንደምን አላችሁ ቤተሰብ ዛሬ ጊትን በአማርኛ እንማራለን። Hello Guys, Hello World.
 ይቅርታ ሰላም ሳልላቸሁ ወደ ገደለው ገባሁ 
 
 # Other Topics Here
