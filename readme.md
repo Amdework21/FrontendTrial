@@ -3,9 +3,10 @@ Introduction to Github
 Other Texts goes here
 
 # ጊት በአማርኛ 
+
 እንደምን አላችሁ ቤተሰብ ዛሬ ጊትን በአማርኛ እንማራለን። 
 ይቅርታ ሰላም ሳልላቸሁ ወደ ገደለው ገባሁ 
-=======
+
 # Other Topics Here
 to be translated
 # Hiw to get started with Git?
