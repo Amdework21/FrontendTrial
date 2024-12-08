@@ -1,3 +1,4 @@
 Hello there
 This is Git Tutor
 Today I'm gonna show you how to use GitHub for Development. 
+Are you Ready????
