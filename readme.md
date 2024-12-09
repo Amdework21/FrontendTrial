@@ -2,7 +2,7 @@
 Introduction to Github
 Other Texts goes here
 
-# Git with Amharic and Englidh
+# Git with Amharic and English Languages
 An introduction to Git in Amharic and English Language
 ## Welcome to Developer's World
 እንደምን አላችሁ ቤተሰብ ዛሬ ጊትን በአማርኛ እንማራለን። 
