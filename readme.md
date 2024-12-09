@@ -2,8 +2,9 @@
 Introduction to Github
 Other Texts goes here
 
-# ጊት በአማርኛ 
-
+# ጊት በአማርኛ  እና Englidh
+An introduction to Git
+## Welcome to Developer's World
 እንደምን አላችሁ ቤተሰብ ዛሬ ጊትን በአማርኛ እንማራለን። 
 ይቅርታ ሰላም ሳልላቸሁ ወደ ገደለው ገባሁ 
 
